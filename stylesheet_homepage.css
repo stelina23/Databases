@@ -1,0 +1,27 @@
+
+.hover_button {
+	
+	text-align: center;
+	font-size: 20px;
+	text-decoration:none;
+	
+	display: inline-block;
+	border-radius: 20px;
+	border: none;
+	
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+
+	transition: all 0.5s;
+	
+	cursor: pointer;
+	margin: 10px;
+	width: 250px;
+	
+	padding: 6px;
+	
+}
+
+.hover_button:hover {
+	transform: scale(1.09); 
+}
